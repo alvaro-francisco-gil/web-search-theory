@@ -1,4 +1,4 @@
-# Web Search Engines - UNED Master's Repository
+# Web Search Theory
 
 This repository contains my exercises and work for the Web Search Engines subject, part of the master's program at UNED (Universidad Nacional de Educación a Distancia).
 
@@ -25,21 +25,6 @@ The following exercises explore different aspects of web search engine technolog
    - Exploration of techniques for scaling search engine indexes
    - Study of efficient data structures for large-scale web indexing
    - Analysis of performance optimization for handling massive datasets
-
-## Course Objectives
-
-This subject aims to provide a deep understanding of:
-
-1. How modern web search engines operate
-2. Algorithms for efficient information retrieval
-3. User behavior patterns in search interactions
-4. Techniques for search engine optimization and evaluation
-5. Scaling challenges and solutions for large-scale search systems
-
-## Additional Resources
-
-- [UNED Master's Program Information](https://www.uned.es)
-- [Information Retrieval Resources](https://nlp.stanford.edu/IR-book/)
 
 ## Contact
 
