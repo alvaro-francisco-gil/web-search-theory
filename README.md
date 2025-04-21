@@ -26,6 +26,11 @@ The following exercises explore different aspects of web search engine technolog
    - Study of efficient data structures for large-scale web indexing
    - Analysis of performance optimization for handling massive datasets
 
+5. [PageRank Impact on Search Results](05_pagerank_impact_search.pdf)
+   - Comparative analysis of PageRank influence across different query types
+   - Study of ranking factors in informational vs. time-sensitive searches
+   - Examination of when authority metrics dominate or become secondary signals
+
 ## Contact
 
 For questions related to this repository, please contact:
