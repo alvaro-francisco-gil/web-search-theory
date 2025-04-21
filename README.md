@@ -31,6 +31,11 @@ The following exercises explore different aspects of web search engine technolog
    - Study of ranking factors in informational vs. time-sensitive searches
    - Examination of when authority metrics dominate or become secondary signals
 
+6. [Adversarial Information Retrieval](06_adversarial_information_retrieval.pdf)
+   - Analysis of spam detection and countermeasures in web search
+   - Study of link manipulation techniques and defensive algorithms
+   - Exploration of adversarial tactics in search engine optimization
+
 ## Contact
 
 For questions related to this repository, please contact:
